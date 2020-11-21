@@ -12,3 +12,4 @@ this is second change (develop)
 * f2
 * f3
 
+This line will be approved by colleagues
